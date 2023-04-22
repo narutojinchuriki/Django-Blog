@@ -2,7 +2,7 @@
 Basic blog site written in Django 
 
 ## Quick Start
-1. Set up the Python development environment. We recommend using a Python virtual environment.
+1. Set up the Python development environment. I recommend using a Python virtual environment.
 2. Run the following commands
 
 ```
